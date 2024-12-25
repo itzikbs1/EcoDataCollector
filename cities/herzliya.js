@@ -1,5 +1,5 @@
-// No need to import fetch as it's built into Node.js now
-const fs = require('fs/promises');
+import { writeFile } from 'fs/promises';
+
 
 async function fetchRecyclingContainers() {
     try {
@@ -50,8 +50,8 @@ async function fetchRecyclingContainers() {
 
         // Save both raw and simplified data
         await Promise.all([
-            fs.writeFile('json/recycling_containers_raw_herzliya.json', JSON.stringify(data, null, 2), 'utf8'),
-            fs.writeFile('json/recycling_containers_simplified_herzliya.json', JSON.stringify(simplifiedData, null, 2), 'utf8')
+            writeFile('json/recycling_containers_raw_herzliya.json', JSON.stringify(data, null, 2), 'utf8'),
+            writeFile('json/recycling_containers_simplified_herzliya.json', JSON.stringify(simplifiedData, null, 2), 'utf8')
         ]);
         
         console.log('Data has been saved to both raw and simplified JSON files');

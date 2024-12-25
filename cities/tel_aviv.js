@@ -1,4 +1,5 @@
-const fs = require('fs/promises');
+import { writeFile } from 'fs/promises';
+
 
 async function fetchRecyclingData() {
     try {
@@ -53,8 +54,8 @@ async function fetchRecyclingData() {
                 },
                 importDate: feature.attributes?.date_import
             }));
-            await fs.writeFile('json/recycling_containers_raw_tel_aviv.json', JSON.stringify(data, null, 2), 'utf8');
-            await fs.writeFile('json/recycling_containers_simplified_tel_aviv.json', JSON.stringify(simplifiedData, null, 2), 'utf8');
+            await writeFile('json/recycling_containers_raw_tel_aviv.json', JSON.stringify(data, null, 2), 'utf8');
+            await writeFile('json/recycling_containers_simplified_tel_aviv.json', JSON.stringify(simplifiedData, null, 2), 'utf8');
             
             console.log(`Successfully fetched ${simplifiedData.length} recycling container locations`);
         } else {
