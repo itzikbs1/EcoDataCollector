@@ -1,0 +1,922 @@
+[
+  {
+    "address": "חסד ואמת\\יעקב חזן",
+    "neighborhood": "מישור הנוף",
+    "binType": "Plastic"
+  },
+  {
+    "address": "שלונסקי 11",
+    "neighborhood": "נאות שקמה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "מרטין בובר מול 33",
+    "neighborhood": "נאות שקמה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "החלוצים פינת נוב",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "החלוצים פינת נחל נמרוד",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "מבוא חמה פינת החלוצים",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נווה דקלים  מול 41",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נווה דקלים  פינת נחל ים",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נווה דקלים פינת נביעות",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נווה דקלים פינת פרי גן",
+    "neighborhood": "נווה דקלים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "המלך מול 15",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "כורש ליד הדואר",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "כורש פינת חיל צנחנים.ליד התחנה",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "שער המלך מול 12",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "ה באייר פינת מבצע נחשון",
+    "neighborhood": "נווה ים",
+    "binType": "Plastic"
+  },
+  {
+    "address": "הבנים 13 \\ פינסקר",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "המוכתר 22",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "אהרון אוזן פינת נחמוני",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "ליבין יוסף וראיסה פינת העצמאות",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "מבצע משה 10 פינת מבצע עובדה",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Plastic"
+  },
+  {
+    "address": "מורי גלמן 23",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "רבי איזדור פינת גוסטב הרץ",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "סול בלו 28",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "הנרי ברגנסון 19 פינת פסטרנק",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נלי ז'קס מול 4",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "פול ברג 27",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "פול ברג 60",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "בן אסרף בגינה הציבורית",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Plastic"
+  },
+  {
+    "address": "ירושלים 97",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Plastic"
+  },
+  {
+    "address": "בקרמן 17",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Plastic"
+  },
+  {
+    "address": "הפלמח\\בן אפרים 1",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Plastic"
+  },
+  {
+    "address": "זלמן שניאור 23",
+    "neighborhood": "רמת אליהו",
+    "binType": "Plastic"
+  },
+  {
+    "address": "אבא הילל סיבר 4",
+    "neighborhood": "רמת אליהו",
+    "binType": "Plastic"
+  },
+  {
+    "address": "דוד המלך 38",
+    "neighborhood": "רמת אליהו",
+    "binType": "Plastic"
+  },
+  {
+    "address": "שמואל הנביא פינת שלמה המלך",
+    "neighborhood": "רמת אליהו",
+    "binType": "Plastic"
+  },
+  {
+    "address": "נחמיה \\הרקפת 131",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Plastic"
+  },
+  {
+    "address": "שד' יעקב 51",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Plastic"
+  },
+  {
+    "address": "שמגר 1",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Plastic"
+  },
+  {
+    "address": "אבא הילל סילבר 4 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "אבי האסירים פינת תמר אבן ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "אוסישקין 31, ראשון סנטר ראשון לציון",
+    "neighborhood": "אברמוביץ",
+    "binType": "Textile"
+  },
+  {
+    "address": "אושה 4 ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "Textile"
+  },
+  {
+    "address": "אלי כהן, במרכז המסחרי ראשון לציון",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Textile"
+  },
+  {
+    "address": "אליעזר בלבן ראשון לציון",
+    "neighborhood": "רמב\"ם",
+    "binType": "Textile"
+  },
+  {
+    "address": "אנילביץ 12 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "אנילביץ 31 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "אנילביץ פינת חנה סנש ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "ארבל 1 ראשון לציון",
+    "neighborhood": "נווה הלל",
+    "binType": "Textile"
+  },
+  {
+    "address": "בית\"ר 12 ראשון לציון",
+    "neighborhood": "אברמוביץ",
+    "binType": "Textile"
+  },
+  {
+    "address": "בלקינד 60 ראשון לציון",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Textile"
+  },
+  {
+    "address": "בן אסרף 31 ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Textile"
+  },
+  {
+    "address": "בן אפריים 6 ראשון לציון",
+    "neighborhood": "קרית שמחה",
+    "binType": "Textile"
+  },
+  {
+    "address": "בקרמן פינת השומר ראשון לציון",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Textile"
+  },
+  {
+    "address": "גדולי ישראל פינת הרב קאפח ראשון לציון",
+    "neighborhood": "נאות שקמה",
+    "binType": "Textile"
+  },
+  {
+    "address": "גוסטב הרץ פינת רבי איזידור ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Textile"
+  },
+  {
+    "address": "גורדון 16 ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "גרץ 15 ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "דרובין 16 ראשון לציון",
+    "neighborhood": "רמז",
+    "binType": "Textile"
+  },
+  {
+    "address": "האחד עשר 23 ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Textile"
+  },
+  {
+    "address": "האלמוגים 24 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "האפרסק 13 פינת הדובדבן ראשון לציון",
+    "neighborhood": "צמרות",
+    "binType": "Textile"
+  },
+  {
+    "address": "הארגמן 16 ראשון לציון",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Textile"
+  },
+  {
+    "address": "הבנים פינת פינסקר ראשון לציון",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Textile"
+  },
+  {
+    "address": "הברון הירש פינת הרצל ראשון לציון",
+    "neighborhood": "אברמוביץ",
+    "binType": "Textile"
+  },
+  {
+    "address": "הדייגים 10 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "החלוצים פינת מבוא חמה  ראשון לציון",
+    "neighborhood": "נווה דקלים",
+    "binType": "Textile"
+  },
+  {
+    "address": "החלוצים פינת נחל נמרוד ראשון לציון",
+    "neighborhood": "נווה דקלים",
+    "binType": "Textile"
+  },
+  {
+    "address": "החצב 54 ראשון לציון",
+    "neighborhood": "צמרות",
+    "binType": "Textile"
+  },
+  {
+    "address": "החצב פינת האקליפטוס ראשון לציון",
+    "neighborhood": "צמרות",
+    "binType": "Textile"
+  },
+  {
+    "address": "הכרמל 20 ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "המעיין פינת בן גוריון ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "המשוררת רחל פינת אלתרמן ראשון לציון",
+    "neighborhood": "נאות שקמה",
+    "binType": "Textile"
+  },
+  {
+    "address": "הנוטרים פינת התפוח ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "הנחשול 11 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "הנחשול פינת הדוגית ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "הסמדר 1 ראשון לציון",
+    "neighborhood": "כרמים, קריית הלאום",
+    "binType": "Textile"
+  },
+  {
+    "address": "העצמאות פינת אוזן אהרון ראשון לציון",
+    "neighborhood": "נחלת יהודה",
+    "binType": "Textile"
+  },
+  {
+    "address": "הפלמ\"ח פינת נווה ציון ראשון לציון",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Textile"
+  },
+  {
+    "address": "הפרדס הראשון 5 ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "הרקפת 8 פינת הכרכם ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "הרקפת פינת החרוב ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "השחר פינת מנחם בגין ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "התור 1 ראשון לציון",
+    "neighborhood": "נווה הדרים",
+    "binType": "Textile"
+  },
+  {
+    "address": "ויניק 37 ראשון לציון",
+    "neighborhood": "רמז",
+    "binType": "Textile"
+  },
+  {
+    "address": "זלמן שז\"ר 34 ראשון לציון",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Textile"
+  },
+  {
+    "address": "חומה ומגדל, ביציאה מהשכונה ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "Textile"
+  },
+  {
+    "address": "חיל רגלים 1 ראשון לציון",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Textile"
+  },
+  {
+    "address": "חנה ומיכאל לוין פינת אולגה ויהושע ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Textile"
+  },
+  {
+    "address": "חסד ואמת פינת יעקב חזן ראשון לציון",
+    "neighborhood": "מישור הנוף",
+    "binType": "Textile"
+  },
+  {
+    "address": "טיומקין 18, במרכז המסחרי ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "יוחנן הסנדלר פינת יהודה רגוניס ראשון לציון",
+    "neighborhood": "רמב\"ם",
+    "binType": "Textile"
+  },
+  {
+    "address": "יחזקאל הנביא בכיכר ליד ביהכנ\"ס ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "ירושלים 97 ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Textile"
+  },
+  {
+    "address": "מאירוביץ 17 ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "מבצע הראל פינת ה באייר ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "מבצע משה 1 פינת פנינת הים ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "מבצע משה פינת מבצע עובדה ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "מבצע נועה בכיכר ראשון לציון",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "Textile"
+  },
+  {
+    "address": "מולכו פינת ירושלים 31 ראשון לציון",
+    "neighborhood": "רמב\"ם",
+    "binType": "Textile"
+  },
+  {
+    "address": "מורדי הגטאות 58 ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "מנחם בגין, במרכז המסחרי ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "משואות יצחק 5 ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Textile"
+  },
+  {
+    "address": "משורר השואה פינת הרב נורוק ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "Textile"
+  },
+  {
+    "address": "נגבה 33 ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "Textile"
+  },
+  {
+    "address": "נוב 3",
+    "neighborhood": "נווה דקלים",
+    "binType": "Textile"
+  },
+  {
+    "address": "נווה דקלים במרכז המסחרי ראשון לציון",
+    "neighborhood": "נווה דקלים",
+    "binType": "Textile"
+  },
+  {
+    "address": "נווה דקלים פינת די זהב ראשון לציון",
+    "neighborhood": "נווה דקלים",
+    "binType": "Textile"
+  },
+  {
+    "address": "נורדאו 52 ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "נורדאו 84 ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "נורדאו פינת קרלן פרץ ראשון לציון",
+    "neighborhood": "גן נחום, ראשונים, האירוס",
+    "binType": "Textile"
+  },
+  {
+    "address": "נחל שורק בחורשה ראשון לציון",
+    "neighborhood": "רמז",
+    "binType": "Textile"
+  },
+  {
+    "address": "נחמיה פינת גדעון ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "נחמיה פינת הרקפת ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "נחמיה פינת מלאכי ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "עזרא 5 פינת דארבלה ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "פול ברגסון 19 ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Textile"
+  },
+  {
+    "address": "פולה בן גוריון ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "Textile"
+  },
+  {
+    "address": "רא\"ם 7 ראשון לציון",
+    "neighborhood": "רמב\"ם, השומר",
+    "binType": "Textile"
+  },
+  {
+    "address": "רבי משה בן נחמן ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "שדמות דבורה 8 ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "Textile"
+  },
+  {
+    "address": "שדרות יעקב 40 ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "שדרות יעקב 50 ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "שדרות יעקב פינת נחמיה ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "Textile"
+  },
+  {
+    "address": "שמעון פרס 33, במרכז המסחרי ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "Textile"
+  },
+  {
+    "address": "שער הגולן 27 ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "Textile"
+  },
+  {
+    "address": "שרירא שמואל פינת אביעזר ילין ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "Textile"
+  },
+  {
+    "address": "תנועות הנוער 36 ראשון לציון",
+    "neighborhood": "קדמת ראשון, שכונת נעורים",
+    "binType": "Textile"
+  },
+  {
+    "address": "רחוב שמשון זליג 5, ראשון לציון",
+    "neighborhood": "האירוס",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רבי משה בן נחמן  ראשון לציון",
+    "neighborhood": "חלום ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רחוב עקיבא פינת נחמיה מוטא, ראשון לציון",
+    "neighborhood": "כלניות",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רח' רבי עקיבא פינת הר סיני, ראשון לציון",
+    "neighborhood": "כפר אריה",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "סוףרחוב בן גוריון ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "שדרות מנחם בגין פינת ז'בוטינסקי ראשון לציון",
+    "neighborhood": "כצנלסון, בנות חיל",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "השומרה פינת הסוכה ראשון לציון",
+    "neighborhood": "כרמים, קריית הלאום",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "משה דיין מיתחם G ראשון לציון",
+    "neighborhood": "מבת מערב",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "ההתיישבות 55 ראשון לציון",
+    "neighborhood": "מרום ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "ז'בוטינסקי 16  ראשון לציון",
+    "neighborhood": "מרכז העיר",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "התזמורת 20  ראשון לציון",
+    "neighborhood": "נאות אשלים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "גדולי ישראל פינת השירה העברית ראשון לציון",
+    "neighborhood": "נאות שקמה",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "נווה דקלים 42, ראשון לציון",
+    "neighborhood": "נווה דקלים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "התור פינת החוחית ראשון לציון",
+    "neighborhood": "נווה הדרים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "יוסף רוייז פינת ארבל  ראשון לציון",
+    "neighborhood": "נווה הלל",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "חיל הצנחנים 14 ראשון לציון",
+    "neighborhood": "נווה חוף, שער הים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "הדיגיים פינת הנחשול ראשון לציון",
+    "neighborhood": "נווה ים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רחוב העצמאות 46, ראשון לציון",
+    "neighborhood": "נחלת יהודה",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "יואל סגל פינת נעורים ראשון לציון",
+    "neighborhood": "קדמת ראשון, שכונת נעורים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "נגבה פינת שדה נחום ראשון לציון",
+    "neighborhood": "קריית גנים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "אלי ויזל ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "שמעון פרס פינת משעול הכימיה ראשון לציון",
+    "neighborhood": "קריית חתני פרס נובל",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "ישראל גלילי 5  בית המשפט ראשון לציון",
+    "neighborhood": "קריית ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רחוב גולדה מאיר פינת רחוב החלמונית 2, ראשון לציון",
+    "neighborhood": "קריית ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "שלמה עיראקי 16 ראשון לציון",
+    "neighborhood": "קרית שמחה",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רח' הפלמ\"ח פינת רחוב דוד פייס מול 57 בצמוד לגן, ראשון לציון",
+    "neighborhood": "ראשונים",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "האחד עשר 31 ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "ירושלים 97 ראשון לציון",
+    "neighborhood": "רביבים, גני ראשון",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "יהודה הלוי 40 ראשון לציון",
+    "neighborhood": "רמב\"ם",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "רמז 2 פינת רוטשילד ראשון לציון",
+    "neighborhood": "רמז",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "דרובין פינת ברניצקי ראשון לציון",
+    "neighborhood": "רמז",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "זלמן שניאור 19 ראשון לציון",
+    "neighborhood": "רמת אליהו",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "שדרות יעקב פינת מורדי הגטאות  ראשון לציון",
+    "neighborhood": "שיכוני המזרח",
+    "binType": "RecyclingElectronics.aspx"
+  },
+  {
+    "address": "אריק איינשטיין מול 22-24",
+    "neighborhood": "רקפות",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "יעקב בן סירה מול 9",
+    "neighborhood": "רקפות",
+    "description": "ליד הגן",
+    "binType": "boxes"
+  },
+  {
+    "address": "רבי עקיבא 29",
+    "neighborhood": "רקפות",
+    "description": "בסמטה ליד גני ילדים",
+    "binType": "boxes"
+  },
+  {
+    "address": "רבי מאיר פינת רבי עקיבא",
+    "neighborhood": "רקפות",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "עמנואלה בן יעקב 10",
+    "neighborhood": "מישור הנוף",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "רבי משה בן מימון 1",
+    "neighborhood": "מישור הנוף",
+    "description": "ליד גן הילדים",
+    "binType": "boxes"
+  },
+  {
+    "address": "שמשון זליג פינת עיינות",
+    "neighborhood": "האירוס",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "הפלמ\"ח מול 55",
+    "neighborhood": "רמב\"ם, השומר",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "אולגה ויהושוע פינת מיכאל לוין",
+    "neighborhood": "רביבים, גני ראשון",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "מוהליבר 2",
+    "neighborhood": "רמב\"ם",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "אשר לוין 9",
+    "neighborhood": "רמב\"ם",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "יוסף רויז פינת השומרון",
+    "neighborhood": "רמז",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "יוסף רויז פינת ארבל",
+    "neighborhood": "רמז",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "התזמורת מול 20",
+    "neighborhood": "נאות אשלים",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "ניסים מלל 9 פינת עדה",
+    "neighborhood": "נחלת יהודה",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "העינב 20",
+    "neighborhood": "נחלת יהודה",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "העצמאות 46",
+    "neighborhood": "נחלת יהודה",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  },
+  {
+    "address": "מרים בן פורת 1",
+    "neighborhood": "נחלת יהודה",
+    "description": "בחניית גני הילדים",
+    "binType": "boxes"
+  },
+  {
+    "address": "חוף הים",
+    "neighborhood": "חוף הים",
+    "description": "",
+    "binType": "boxes"
+  },
+  {
+    "address": "כורש פינת ארגמן",
+    "neighborhood": "נווה חוף, שער הים",
+    "description": "מרכז מחזור",
+    "binType": "boxes"
+  }
+]

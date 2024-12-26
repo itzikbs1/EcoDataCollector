@@ -28,7 +28,7 @@ async function fetchRecyclingLocations() {
                 binType,
             });
         });
-        await writeFile('recycling_locations_ramat_hasharon.json', JSON.stringify(locations, null, 2), 'utf8');
+        await writeFile('json/recycling_locations_ramat_hasharon.json', JSON.stringify(locations, null, 2), 'utf8');
         return locations;
     } catch (error) {
         console.error('Error fetching recycling locations:', error.message);
