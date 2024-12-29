@@ -54,6 +54,14 @@ async function fetchRecyclingData() {
                 },
                 importDate: feature.attributes?.date_import
             }));
+            // let types = new Set();
+            // data.features.map(feature => {
+            //     const type = feature.attributes?.t_sug;
+            //     types.add(type)
+            // });
+            // console.log(`types: ${types}`);
+            // console.log(types);
+            
             await writeFile('json/recycling_containers_raw_tel_aviv.json', JSON.stringify(data, null, 2), 'utf8');
             await writeFile('json/recycling_containers_simplified_tel_aviv.json', JSON.stringify(simplifiedData, null, 2), 'utf8');
             
