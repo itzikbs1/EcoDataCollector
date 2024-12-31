@@ -23,14 +23,6 @@ const pool = new Pool({
 });
 
 
-pool.query('SELECT NOW()', (err, res) => {
-    if(err) {
-        console.error('Error connecting to the database: ', err);
-    } else {
-        console.log('Successfully connected to database');
-    }
-});
-
 // Replace module.exports with ES module export syntax
 export const query = (text, params) => pool.query(text, params);
 export { pool };
