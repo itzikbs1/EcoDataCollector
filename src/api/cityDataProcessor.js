@@ -1,6 +1,5 @@
 import { pool } from '../database/connection.js';
 import {
-    insertCompleteBinLocation,
     insertCity,
     insertStreet,
     insertBinType,
@@ -52,7 +51,7 @@ class CityDataProcessor {
                                 longitude: bin.longitude,
                                 binCount: bin.bin_count,
                                 status: bin.status,
-                                uniqueExternalId: `${bin.unique_external_id}-${bin.bin_type_name}`
+                                uniqueExternalId: `${bin.unique_external_id}`
                             });
                             
                             console.log(`Successfully inserted bin at ${location.street.street_name} ${bin.building_number}`);
