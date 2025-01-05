@@ -55,23 +55,27 @@ class RamatGanDataFetcher {
 
   transformData(rawData) {
     try {
-      
-      return rawData.map(item => ({
-        id: item.Id,
-        city: this.cityName,
-        street: item.SteetName,
-        houseNumber: item.BuildingNumber?.toString(),
-        containerTypes: [
-          item.Title?.replace(/<[^>]*>/g, '')  // Remove HTML tags
-              .replace(/\s*\[[^\]]*\]/g, '')  // Remove square brackets and their content
-              .trim() || ''
-        ],
-        location: {
-            longitude: item.Longtitude,
-            latitude: item.Latitude
-        },
-        externalId: item.Id
-      }));
+      const types = ['אריזות', 'נייר', 'אלקטרונית', 'טקסטיל', 'קרטונים'];
+      return rawData.map(item => {
+        const cleandTitle =   item.Title?.replace(/<[^>]*>/g, '')  // Remove HTML tags
+        .replace(/\s*\[[^\]]*\]/g, '')  // Remove square brackets and their content
+        .trim() || '';
+        
+        const matchedTypes = types.filter(type => cleandTitle.includes(type));
+
+        return {
+          id: item.Id,
+          city: this.cityName,
+          street: item.SteetName,
+          houseNumber: item.BuildingNumber?.toString(),
+          containerTypes: matchedTypes,
+          location: {
+              longitude: item.Longtitude,
+              latitude: item.Latitude
+          },
+          externalId: item.Id
+        }
+      });
     } catch (error) {
       console.error(`Error transforming ${this.cityName} data:`, error.message);
       throw error;

@@ -2,6 +2,7 @@ import HerzliyaDataFetcher from './cities/herzliyaFetcher.js';
 import RamatGanDataFetcher from "./cities/ramatGanFetcher.js";
 import TelAvivDataFetcher from './cities/telAvivFetcher.js';
 import RishonLezionDataFetcher from './cities/rishonLezionFetcher.js';
+import GlassRecyclingFetcher from './glassRecyclingFetcher.js';
 
 import CityDataProcessor from './cityDataProcessor.js';
 
@@ -11,11 +12,14 @@ async function main() {
     const ramatGanFetcher = new RamatGanDataFetcher();
     const telAvivFetcher = new TelAvivDataFetcher();
     const rishonLezionFetcher = new RishonLezionDataFetcher();
+
+    const glassRecyclingFetcher = new GlassRecyclingFetcher();
     const processor = new CityDataProcessor([
         // herzliyaFetcher,
         // ramatGanFetcher,
         // telAvivFetcher,
         rishonLezionFetcher,
+        // glassRecyclingFetcher
     ]);
 
     await processor.proccesAll();

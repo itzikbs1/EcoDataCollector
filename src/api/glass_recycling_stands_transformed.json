@@ -1,0 +1,3678 @@
+{
+  "errorCode": 0,
+  "status": 0,
+  "message": null,
+  "data": [
+    {
+      "LayerName": "GLASS_RECYLCE_STANDS",
+      "LayerCaption": "מיקומי פח סגול – לאריזות זכוכית",
+      "LayerCss": "",
+      "LayerType": 0,
+      "BubbleType": 0,
+      "FooterType": 1,
+      "disclaimer": null,
+      "Result": [
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "לוי אשכול 2, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5699,
+          "centroid": {
+            "y": 689566.2333,
+            "x": 185911.1505,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "בן אב\"י 21, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3263,
+          "centroid": {
+            "y": 691740.12,
+            "x": 186146.2578,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ניל\"י 36, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5698,
+          "centroid": {
+            "y": 691805.5303,
+            "x": 187175.7174,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אוסישקין 38, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3323,
+          "centroid": {
+            "y": 692530.8243,
+            "x": 186141.3349,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ניצה 26, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5686,
+          "centroid": {
+            "y": 694185.785,
+            "x": 186359.5673,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "פרופסור ברודצקי 20, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3269,
+          "centroid": {
+            "y": 692163.5337,
+            "x": 186547.8504,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "בורוכוב 16, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5684,
+          "centroid": {
+            "y": 693822.1068,
+            "x": 186680.3601,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "נווה שלום 34, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3240,
+          "centroid": {
+            "y": 694863.391,
+            "x": 187032.9976,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "עמק חפר 20, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3249,
+          "centroid": {
+            "y": 693981.9048,
+            "x": 187686.3638,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הגולן 8, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3134,
+          "centroid": {
+            "y": 690524.9937,
+            "x": 188134.1284,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ד\"ר מאיר אבנר 28, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3253,
+          "centroid": {
+            "y": 692525.7238,
+            "x": 188436.9401,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ז'בוטינסקי 46, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3212,
+          "centroid": {
+            "y": 691821.9311,
+            "x": 185887.5691,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "פתח תקווה 67, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3273,
+          "centroid": {
+            "y": 691717.8163,
+            "x": 186863.7421,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הקליר 6, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4415,
+          "centroid": {
+            "y": 691312.5808,
+            "x": 187008.3992,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "גד מכנס 14, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3259,
+          "centroid": {
+            "y": 692790.6326,
+            "x": 186047.0934,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אבא אחימאיר 6, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5693,
+          "centroid": {
+            "y": 691951.3647,
+            "x": 186318.3363,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ביאליק 13, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4402,
+          "centroid": {
+            "y": 693185.244,
+            "x": 186438.1979,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אנדריוס 11, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3307,
+          "centroid": {
+            "y": 693598.1816,
+            "x": 186654.2119,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות חיים וייצמן 74, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3305,
+          "centroid": {
+            "y": 693791.1603,
+            "x": 186990.949,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אפרים אהרונסון 20, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3251,
+          "centroid": {
+            "y": 692007.1058,
+            "x": 187255.4607,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "מרדכי אנילביץ' 13, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3252,
+          "centroid": {
+            "y": 692084.9168,
+            "x": 187546.6762,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דב הוז 1, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5690,
+          "centroid": {
+            "y": 693723.5671,
+            "x": 187670.4862,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "עמק חפר 90, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3239,
+          "centroid": {
+            "y": 694596.5538,
+            "x": 187949.0699,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הר מירון 9, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5702,
+          "centroid": {
+            "y": 690656.007,
+            "x": 188083.679,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בנימין 60, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5695,
+          "centroid": {
+            "y": 691867.2884,
+            "x": 186594.9092,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "נחום 21, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3220,
+          "centroid": {
+            "y": 689661.123,
+            "x": 186733.7174,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "השבעה 16, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3265,
+          "centroid": {
+            "y": 692027.3777,
+            "x": 186134.9645,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בנימין 29, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3271,
+          "centroid": {
+            "y": 692347.0371,
+            "x": 186727.3563,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שרת 5, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3325,
+          "centroid": {
+            "y": 693878.3952,
+            "x": 187107.0312,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הפורצים 16, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5697,
+          "centroid": {
+            "y": 692411.5654,
+            "x": 187352.7957,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שמעון בר יוחאי 2, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3238,
+          "centroid": {
+            "y": 694185.3071,
+            "x": 187892.2396,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן גוריון 5225, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3215,
+          "centroid": {
+            "y": 690146.1392,
+            "x": 185602.2745,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הגילה 15, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3213,
+          "centroid": {
+            "y": 691211.0646,
+            "x": 185836.5678,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "סמילנסקי 81, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3264,
+          "centroid": {
+            "y": 692021.0665,
+            "x": 186031.3622,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "גד מכנס 28, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3260,
+          "centroid": {
+            "y": 692494.5528,
+            "x": 186043.2882,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דוד המלך 16, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3311,
+          "centroid": {
+            "y": 693283.4806,
+            "x": 186240.7979,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ניצה 10, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3310,
+          "centroid": {
+            "y": 693798.9779,
+            "x": 186292.3941,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "עמנואל מול 2, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3312,
+          "centroid": {
+            "y": 693738.6929,
+            "x": 186414.5894,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ירושלים 32, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3267,
+          "centroid": {
+            "y": 692268.7211,
+            "x": 186598.0996,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "יהודה הנשיא 24, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5683,
+          "centroid": {
+            "y": 693914.0059,
+            "x": 186724.908,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "השושנה 11, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3243,
+          "centroid": {
+            "y": 695148.6856,
+            "x": 186942.6036,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אלקלעי 11, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3248,
+          "centroid": {
+            "y": 693286.5881,
+            "x": 188040.0715,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הגולן 11, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3135,
+          "centroid": {
+            "y": 690556.8031,
+            "x": 188247.241,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הרטום 34, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3156,
+          "centroid": {
+            "y": 690746.2203,
+            "x": 188316.5754,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הקליר 7, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3227,
+          "centroid": {
+            "y": 691260.3484,
+            "x": 187043.0749,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ברוך רם 13, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5687,
+          "centroid": {
+            "y": 691970.7463,
+            "x": 185823.09,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ז'בוטינסקי 27, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5691,
+          "centroid": {
+            "y": 692120.0126,
+            "x": 185956.3587,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ראשון לציון 17, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3262,
+          "centroid": {
+            "y": 692706.1532,
+            "x": 186107.0751,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אוסישקין 29, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5998,
+          "centroid": {
+            "y": 692866.612,
+            "x": 186210.2367,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שלמה המלך 58, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3309,
+          "centroid": {
+            "y": 694167.6255,
+            "x": 186486.6033,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דברי חיים 20, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3247,
+          "centroid": {
+            "y": 694687.9281,
+            "x": 186766.0174,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "משה איכילוב 6, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3316,
+          "centroid": {
+            "y": 693973.4197,
+            "x": 186870.0866,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "עובדיה מברטנורא 2, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3246,
+          "centroid": {
+            "y": 694334.8766,
+            "x": 186890.0832,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "משה שפירא 7, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3318,
+          "centroid": {
+            "y": 693522.5494,
+            "x": 187066.3465,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "גבע 37, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5696,
+          "centroid": {
+            "y": 692297.8123,
+            "x": 187205.5407,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "נחום סוקולוב 43, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3319,
+          "centroid": {
+            "y": 694226.2481,
+            "x": 187568.512,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הרטום 40, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3133,
+          "centroid": {
+            "y": 690775.6297,
+            "x": 188130.1971,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "פייר קניג 33, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5688,
+          "centroid": {
+            "y": 690341.3229,
+            "x": 185600.1034,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אברהם אבן עזרא 18, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3228,
+          "centroid": {
+            "y": 691174.4267,
+            "x": 186863.8709,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "השל\"ה הקדוש 1, נתניה",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5468,
+          "centroid": {
+            "y": 691189.5727,
+            "x": 187328.1904,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דיזנגוף 47, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3322,
+          "centroid": {
+            "y": 692728.6195,
+            "x": 186356.6689,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ירושלים 13, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3268,
+          "centroid": {
+            "y": 692393.677,
+            "x": 186367.8111,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "מלחמת ששת הימים 2, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5685,
+          "centroid": {
+            "y": 693159.9418,
+            "x": 186715.8701,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "א.ד. גורדון 46, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3306,
+          "centroid": {
+            "y": 693546.468,
+            "x": 186870.5901,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות חיים וייצמן 17, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3314,
+          "centroid": {
+            "y": 693144.8462,
+            "x": 186925.7853,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות חיים וייצמן, נתניה",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5681,
+          "centroid": {
+            "y": 693390.8902,
+            "x": 186970.8302,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הגפן 17, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3241,
+          "centroid": {
+            "y": 695161.276,
+            "x": 187165.7453,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "קמיל הויסמנס 29, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3320,
+          "centroid": {
+            "y": 694585.4233,
+            "x": 187259.9245,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הרב ריינס 22, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3326,
+          "centroid": {
+            "y": 693489.9773,
+            "x": 187543.5877,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אבנר בן נר 10, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3250,
+          "centroid": {
+            "y": 693437.1916,
+            "x": 187754.3201,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שפינוזה, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4400,
+          "centroid": {
+            "y": 693855.4231,
+            "x": 188059.7312,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "פייר קניג 16, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3214,
+          "centroid": {
+            "y": 690657.0191,
+            "x": 185706.641,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "חטיבת קרייתי 4, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4405,
+          "centroid": {
+            "y": 689840.5781,
+            "x": 185781.1441,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "פלוגת מכבי, נתניה ,ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 6197,
+          "centroid": {
+            "y": 689718.8882,
+            "x": 186362.8104,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "לנטוס 25, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4399,
+          "centroid": {
+            "y": 690389.1415,
+            "x": 187957.5906,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אוסישקין 18, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3261,
+          "centroid": {
+            "y": 692734.6006,
+            "x": 186223.9254,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דוד המלך 12, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 6446,
+          "centroid": {
+            "y": 693214.7754,
+            "x": 186225.5071,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אליעזר בן יהודה 32, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5692,
+          "centroid": {
+            "y": 692011.5481,
+            "x": 186227.1939,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "בארי 86, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3321,
+          "centroid": {
+            "y": 694266.6515,
+            "x": 187069.6776,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "מאיר בר אילן 19, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3315,
+          "centroid": {
+            "y": 693643.8828,
+            "x": 187270.0993,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "החשמונאים 50, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5995,
+          "centroid": {
+            "y": 693348.7223,
+            "x": 187325.6489,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הרעות 6, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4414,
+          "centroid": {
+            "y": 691726.2833,
+            "x": 185971.0602,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הגולן 8, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5704,
+          "centroid": {
+            "y": 690538.6435,
+            "x": 188023.9819,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "אוסישקין 6, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5689,
+          "centroid": {
+            "y": 692594.9818,
+            "x": 186190.5097,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "סמילנסקי 40, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3266,
+          "centroid": {
+            "y": 692388.3827,
+            "x": 186291.5229,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שלמה המלך 4, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3313,
+          "centroid": {
+            "y": 693526.0123,
+            "x": 186341.3965,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "ד\"ר יהושע טהון 13, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3308,
+          "centroid": {
+            "y": 694120.3317,
+            "x": 186706.7486,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דברי חיים 12, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3272,
+          "centroid": {
+            "y": 694499.4889,
+            "x": 186739.9881,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "הרב הרצוג 23, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5682,
+          "centroid": {
+            "y": 694337.8544,
+            "x": 186998.3575,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "גבע 25, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 5694,
+          "centroid": {
+            "y": 692328.3575,
+            "x": 187017.3145,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רבי עקיבא 48, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 4401,
+          "centroid": {
+            "y": 694384.0381,
+            "x": 187468.2783,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם הספק",
+                  "FieldValue": "מונף סגול – פלסטיק רוטוניב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "תאריך עדכון",
+                  "FieldValue": "05/05/2024",
+                  "FieldType": 8
+                },
+                {
+                  "FieldName": "שם יישוב",
+                  "FieldValue": "נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שמעון ברכה 14, נתניה, ישראל",
+                  "FieldType": 1
+                }
+              ]
+            }
+          ],
+          "objectId": 3317,
+          "centroid": {
+            "y": 693384.4457,
+            "x": 187953.7564,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        }
+      ],
+      "lyrSelection": {
+        "dataSource": "SDE.tmir_glass_recylce_stands_v4",
+        "fillColor": [
+          "6",
+          "55",
+          "158",
+          "0.4"
+        ],
+        "outLineColor": [
+          "6",
+          "55",
+          "158",
+          "0.5"
+        ],
+        "filter": null,
+        "geometryType": 0,
+        "marker": false,
+        "centroid": null,
+        "SelectedExtent": null
+      },
+      "SelectionFilterTemplate": "OBJECTID= {0}",
+      "IsUserLayer": false,
+      "CurrentLayer": {
+        "minScale": 500001,
+        "maxScale": 0,
+        "transparent": false,
+        "layerIcon": {
+          "type": 0,
+          "bars": null,
+          "outline": null,
+          "css": "glass_recylce_stands"
+        },
+        "resourceName": "additionaldata",
+        "resourceType": 0,
+        "officeId": 61,
+        "keywords": [
+          "תמיר",
+          "תאגיד המחזור",
+          "מחזור",
+          "אריזות",
+          "פחים",
+          "פחים סגולים",
+          "איסוף",
+          "זכוכית"
+        ],
+        "loadOnStart": false,
+        "linkToWeb": [
+          ""
+        ],
+        "workingHours": "",
+        "download": null,
+        "layerID": 31,
+        "caption": "מיקומי פח סגול – לאריזות זכוכית",
+        "layerName": "GLASS_RECYLCE_STANDS",
+        "layerType": 0,
+        "visible": false,
+        "order": 0,
+        "layerKind": 0,
+        "categoryId": 5,
+        "layerRenderer": null,
+        "dontShowInLayers": false,
+        "showEntityLength": false,
+        "legendUrl": null,
+        "legendCss": null,
+        "legendBase64": null,
+        "definitionExpression": "",
+        "description": null,
+        "showInPersonalSite": true,
+        "layerSource": null,
+        "filter": ""
+      }
+    }
+  ],
+  "active": false
+}

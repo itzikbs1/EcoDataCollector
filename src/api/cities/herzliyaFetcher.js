@@ -43,10 +43,10 @@ class HerzliyaDataFetcher {
 
         // Validate bin types
         if (feature.attributes.field_10) {
-            const validTypes = ['פלסטיק', 'נייר', 'אריזות', 'זכוכית', 'קרטון', 'טקסטיל', 'other'];
+            const validTypes = ['פלסטיק', 'נייר', 'אריזות', 'זכוכית', 'קרטון', 'טקסטיל'];
             const binTypes = feature.attributes.field_10.split(',');
             const invalidTypes = binTypes.filter(type => !validTypes.includes(type.trim()));
-            if (invalidTypes.length > 0 || feature.attributes.field_10.includes('נסיון')) {
+            if (invalidTypes.length > 0 || feature.attributes.field_10.includes('נסיון') || feature.attributes.field_10.includes('other')) {
                 errors.push(`Invalid bin types: ${invalidTypes.join(', ')}`);
             }
         }

@@ -1,9 +1,19 @@
+import { getAddressMapping } from './addressMappings.js';
+
 class AddressHandler {
     static cleanAddress(address) {
         if (!address || typeof address !== 'string') {
             return { street: '', houseNumber: null };
         }
 
+        // First check if there's a mapping for this address
+        const mappedAddress = getAddressMapping(address);
+        
+        // Then process the mapped or original address
+        return this._cleanAddressInternal(mappedAddress);
+    }
+
+    static _cleanAddressInternal(address) {
         // Remove city name and initial cleanup
         let cleanedAddress = address
             .replace(/ראשון לציון/g, '')
@@ -34,6 +44,10 @@ class AddressHandler {
             if (number) {
                 houseNumber = number;
             }
+        }
+        // Handle slash cases (/)
+        else if (cleanedAddress.includes('/')) {
+            street = cleanedAddress.split('/')[0].trim();
         }
         // Regular address with number
         else {
@@ -70,24 +84,6 @@ class AddressHandler {
             .replace(/^רח'|^רחוב\s*/, '')
             .replace(/^שד'|^שדרות\s*/, 'שדרות ');
 
-        // Special case handling for problematic addresses
-        const specialCases = {
-            'הדייגים': 'הדייגים',
-            'שלמה עיראקי': 'שלמה עיראקי',
-            'חיל רגלים': 'חיל רגלים',
-            'ההתיישבות': 'ההתיישבות',
-            'הארגמן': 'הארגמן',
-            'נלי זקס': 'נלי זקס',
-            'מורי גלמן': 'מורי גלמן'
-        };
-
-        for (const [key, value] of Object.entries(specialCases)) {
-            if (street.includes(key)) {
-                street = value;
-                break;
-            }
-        }
-
         // Normalize spaces and ensure non-empty street name
         street = street.replace(/\s+/g, ' ').trim() || 'unknown';
 
@@ -99,7 +95,16 @@ class AddressHandler {
             return '';
         }
 
-        const { street, houseNumber } = this.cleanAddress(address);
+        // Get the mapped address if it exists
+        const mappedAddress = getAddressMapping(address);
+        
+        // For the special case of Shlonsky which is already in English
+        if (mappedAddress.toLowerCase().startsWith('shlonsky')) {
+            return `${mappedAddress}, ${city}, Israel`;
+        }
+
+        // For all other cases, proceed with normal cleaning and formatting
+        const { street, houseNumber } = this.cleanAddress(mappedAddress);
         let formattedAddress = street;
         
         if (houseNumber) {
