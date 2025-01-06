@@ -4,6 +4,7 @@ import TelAvivDataFetcher from './cities/telAvivFetcher.js';
 import JerusalemDataFetcher from './cities/jerusalemFetcher.js';
 import RishonLezionDataFetcher from './cities/rishonLezionFetcher.js';
 import GlassRecyclingFetcher from './glassRecyclingFetcher.js';
+import PetahTikvaDataFetcher from './cities/petahTikvaFetcher.js';
 
 import CityDataProcessor from './cityDataProcessor.js';
 
@@ -14,14 +15,17 @@ async function main() {
     const telAvivFetcher = new TelAvivDataFetcher();
     const rishonLezionFetcher = new RishonLezionDataFetcher();
     const jerusalemFetcher = new JerusalemDataFetcher();
+    const petahTikvaFetcher = new PetahTikvaDataFetcher();
 
     const glassRecyclingFetcher = new GlassRecyclingFetcher();
+
     const processor = new CityDataProcessor([
         // herzliyaFetcher,
         // ramatGanFetcher,
         // telAvivFetcher,
         // rishonLezionFetcher,
-        jerusalemFetcher,
+        // jerusalemFetcher,
+        petahTikvaFetcher
         // glassRecyclingFetcher
     ]);
 
