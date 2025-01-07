@@ -36,8 +36,8 @@ CREATE TABLE IF NOT EXISTS recycling_bins (
     bin_type_id INTEGER REFERENCES bin_types(bin_type_id),
     street_id INTEGER REFERENCES streets(street_id),
     building_number VARCHAR(20),
-    latitude DECIMAL(10, 8),
-    longitude DECIMAL(11, 8),
+    latitude DECIMAL(12, 8),
+    longitude DECIMAL(12, 8),
     bin_count INTEGER DEFAULT 1,
     status VARCHAR(50) DEFAULT 'active',
     unique_external_id VARCHAR(100),  -- For rare cases of bin relocation tracking
