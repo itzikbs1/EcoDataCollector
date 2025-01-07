@@ -49,10 +49,11 @@ export async function insertBinType(typeName) {
       RETURNING *
     `;
   
-    try {
+    try {      
       const result = await query(queryText, [typeName]);
       return result.rows[0];
     } catch (err) {
+      console.log(`typeName: ${typeName}`);
       console.error('Error inserting bin type:', err);
       throw err;
     }

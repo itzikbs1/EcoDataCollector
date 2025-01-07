@@ -1,6 +1,6 @@
 import axios from 'axios';
 import proj4 from 'proj4';
-import fs from 'fs';
+// import fs from 'fs';
 
 
 class GlassRecyclingFetcher {
@@ -9,7 +9,7 @@ class GlassRecyclingFetcher {
         this.initializeAxios();
         this.setupSearchParameters();
 
-        this.once = true; //temporary to dave in json
+        // this.once = true; //temporary to dave in json
     }
 
     initializeProjection() {
@@ -117,11 +117,11 @@ class GlassRecyclingFetcher {
                     LayerFilter: ""
                 }]
             });
-            if (this.once) {
-                fs.writeFileSync('./glass_recycling_stands_transformed.json', 
-                    JSON.stringify(response.data, null, 2));
-                    this.once = false;    
-            }
+            // if (this.once) {
+            //     fs.writeFileSync('./glass_recycling_stands_transformed.json', 
+            //         JSON.stringify(response.data, null, 2));
+            //         this.once = false;    
+            // }
             return response.data?.data?.[0]?.Result || [];
         } catch (error) {
             console.error(`Error searching ${location.name} with ${strategy.name}:`, error.message);
@@ -159,7 +159,7 @@ class GlassRecyclingFetcher {
         };
     }
 
-    getSchemaFormat(transformedData, cityName) {
+    getSchemaFormat(transformedData) {
 
         return transformedData.map(item => ({
             city: { city_name: item.city },

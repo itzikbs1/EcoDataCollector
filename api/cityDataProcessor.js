@@ -1,10 +1,10 @@
-import { pool } from '../database/connection.js';
+import { pool } from '../src/database/connection.js';
 import {
     insertCity,
     insertStreet,
     insertBinType,
     insertRecyclingBin
-} from '../database/recyclingBins.js';
+} from '../src/database/recyclingBins.js';
 
 class CityDataProcessor {
     constructor(cityFetchers = []) {
@@ -30,12 +30,13 @@ class CityDataProcessor {
                 try {
                     // Insert city once
                     const city = await insertCity(location.city.city_name);
-                    
+                    // console.log(location);
+                    // break;
                     // Insert street for this city
                     const street = await insertStreet(
                         city.city_id,
                         location.street.street_name,
-                        location.street.street_code
+                        // location.street.street_code
                     );
                     
                     // Process each bin at this location
@@ -54,7 +55,7 @@ class CityDataProcessor {
                                 uniqueExternalId: `${bin.unique_external_id}`
                             });
                             
-                            console.log(`Successfully inserted bin at ${location.street.street_name} ${bin.building_number}`);
+                            // console.log(`Successfully inserted bin at ${location.street.street_name} ${bin.building_number}`);
                         } catch (binError) {
                             console.error(`Error processing bin in ${fetcher.cityName}:`, binError);
                         }
