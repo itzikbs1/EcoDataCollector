@@ -25,8 +25,8 @@ async function main() {
         // telAvivFetcher,
         // rishonLezionFetcher,
         // jerusalemFetcher,
-        petahTikvaFetcher
-        // glassRecyclingFetcher
+        // petahTikvaFetcher
+        glassRecyclingFetcher
     ]);
 
     await processor.proccesAll();

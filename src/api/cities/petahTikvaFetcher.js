@@ -4,12 +4,7 @@ import fs from 'fs/promises';
 
 class PetahTikvaDataFetcher {
     constructor() {
-        // Using the service URL we found in the network requests
-        // this.baseUrl = 'https://services9.arcgis.com/tfeLX7LFVABzD11G/arcgis/rest/services/%D7%9E%D7%97%D7%96%D7%95%D7%A8/FeatureServer/33/query';
-        // this.serviceUrl = `${this.baseUrl}/Addresses/FeatureServer/1/query`;
-
         this.baseUrl = 'https://services9.arcgis.com/tfeLX7LFVABzD11G/arcgis/rest/services/מחזור/FeatureServer';
-        // All layer IDs we found
         this.layerIds = [23, 32, 33, 35, 37, 38, 39];
         this.cityName = 'Petah Tikva';
     }
