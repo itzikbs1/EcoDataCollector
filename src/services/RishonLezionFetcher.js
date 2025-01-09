@@ -4,6 +4,8 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import AddressHandler from '../helpers/addressHandler.js';
 
+// import fs from 'fs/promises'
+
 class RishonLezionFetcher extends BaseFetcher {
     constructor() {
         super('Rishon Lezion');

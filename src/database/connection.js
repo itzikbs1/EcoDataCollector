@@ -1,28 +1,13 @@
-// import 'dotenv/config';
-import pkg from 'pg';
-import dotenv from 'dotenv';
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-import path from 'path';
+import mongoose from "mongoose";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const connectDB = async () => {
+    try {
+        const conn = await mongoose.connect('mongodb://127.0.0.1:27017/recycling_bins');
+        console.log(`MongoDB Connected: ${conn.connection.host}`);
+    } catch (error) {
+        console.error(`Error: ${error.message}`);
+        process.exit(1);
+    }
+}
 
-// Load .env from the project root
-dotenv.config({ path: path.join(__dirname, '../../.env') });
-
-const { Pool } = pkg;
-
-
-const pool = new Pool({
-    user: String(process.env.DB_USER),
-    host: String(process.env.DB_HOST),
-    database: String(process.env.DB_NAME),
-    password: String(process.env.DB_PASSWORD),
-    port: Number(process.env.DB_PORT)
-});
-
-
-// Replace module.exports with ES module export syntax
-export const query = (text, params) => pool.query(text, params);
-export { pool };
+export default connectDB;

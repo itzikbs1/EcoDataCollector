@@ -33,13 +33,13 @@ async function main() {
         herzliyaFetcher,
         ramatGanFetcher,
         telAvivFetcher,
-        rishonLezionFetcher,
-        jerusalemFetcher,
-        petahTikvaFetcher,
-        glassRecyclingFetcher
+        // rishonLezionFetcher,
+        // jerusalemFetcher,
+        // petahTikvaFetcher,
+        // glassRecyclingFetcher
     ]);
 
-    await processor.proccesAll();
+    await processor.processAll();
 }
 
 // // Run if this is the main module

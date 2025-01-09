@@ -80,7 +80,7 @@ class HerzliyaFetcher extends BaseFetcher {
                 // Validate feature
                 const validationErrors = this.validateFeature(feature);
                 if (validationErrors.length > 0) {
-                    console.warn(`Skipping invalid feature:`, validationErrors);
+                    // console.warn(`Skipping invalid feature:`, validationErrors);
                     continue;
                 }
 

@@ -36,35 +36,29 @@ class BaseFetcher {
     }
 
     getSchemaFormat(transformedData) {
-        const cityData = {
-            city_name: this.cityName
-        };
-
-        return transformedData.map(item => ({
-            city: cityData,
-            street: {
-                street_name: item.street
-            },
-            bins: Array.isArray(item.containerTypes)
-            ? item.containerTypes.map(binType => this.createBinEntry(item, binType))
-            : [this.createBinEntry(item, item.containerTypes)]
-        }));
+        return transformedData.map(item => {
+            // If containerTypes is an array, create multiple records, one for each bin type
+            if (Array.isArray(item.containerTypes)) {
+                return item.containerTypes.map(binType => 
+                    this.createBinEntry(item, binType)
+                );
+            }
+            // If containerTypes is a single value, create one record
+            return this.createBinEntry(item, item.containerTypes);
+        }).flat(); // Flatten the array since we might have arrays of records
     }
-
+    
     createBinEntry(item, binType) {
-        // if ((getStandardType[binType] || binType) === 'Glass') {
-        //     console.log(`city: ${this.cityName}`);
-        //     console.log(`bin type: ${binType}`);    
-        // }
-        
         return {
+            city_name: this.cityName,
+            street_name: item.street || '',
+            building_number: item.houseNumber ? Number(item.houseNumber) : undefined,
             bin_type_name: getStandardType(binType) || binType,
-            building_number: item.houseNumber,
-            latitude: item.location?.latitude,
-            longitude: item.location?.longitude,
-            bin_count: item.binCount || 1,
-            status: 'active',
-            unique_external_id: item.externalId
+            is_active: true,
+            location: {
+                latitude: Number(item.location?.latitude),
+                longitude: Number(item.location?.longitude)
+            }
         };
     }
 
