@@ -3,8 +3,7 @@ import {
     insertData,
     clearDatabase,
     resetDatabase,
-    showIndexes,
-    getCount
+    showIndexes
 } from './database/recyclingBins.js';
 
 class CityDataProcessor {
@@ -25,11 +24,11 @@ class CityDataProcessor {
             const indexes = await showIndexes();
             console.log('Current indexes:', indexes);
 
-            console.log("\n--- Inserting New Data ---");
+            // console.log("\n--- Inserting New Data ---");
             const { transformedData } = await fetcher.process();
             const schemaFormattedData = fetcher.getSchemaFormat(transformedData);
             const result = await insertData(schemaFormattedData);
-            console.log('Insert operation results:', result);
+            // console.log('Insert operation results:', result);
 
             console.log(`Finished processing ${fetcher.cityName} data`);
         } catch (error) {

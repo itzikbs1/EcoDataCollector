@@ -50,7 +50,7 @@ class BaseFetcher {
     
     createBinEntry(item, binType) {
         return {
-            city_name: this.cityName,
+            city_name: item.city || this.cityName,
             street_name: item.street || '',
             building_number: item.houseNumber ? Number(item.houseNumber) : undefined,
             bin_type_name: getStandardType(binType) || binType,

@@ -1,4 +1,3 @@
-// src/services/RamatGanFetcher.js
 import BaseFetcher from '../core/BaseFetcher.js';
 
 class RamatGanFetcher extends BaseFetcher {
@@ -35,9 +34,6 @@ class RamatGanFetcher extends BaseFetcher {
     validateFeature(item) {
         const errors = [];
 
-        // if (!item.StreetName) {
-        //     errors.push('Missing street name');
-        // } 
         if (!item.Latitude || !item.Longtitude || 
             !this.validateCoordinates(item.Latitude, item.Longtitude)) {
             errors.push('Missing or invalid coordinates');

@@ -1,4 +1,3 @@
-// src/services/TelAvivFetcher.js
 import BaseFetcher from '../core/BaseFetcher.js';
 
 class TelAvivFetcher extends BaseFetcher {
@@ -45,9 +44,9 @@ class TelAvivFetcher extends BaseFetcher {
                     const latitude = feature.attributes?.Lat;
                     const longitude = feature.attributes?.Lon;
                     const isValid = this.validateCoordinates(latitude, longitude);
-                    if (!isValid) {
-                        console.log(`Filtered out bin with invalid coordinates: Lat=${latitude}, Lon=${longitude}`);
-                    }
+                    // if (!isValid) {
+                    //     console.log(`Filtered out bin with invalid coordinates: Lat=${latitude}, Lon=${longitude}`);
+                    // }
                     return isValid;
                 });
                 console.log(`Total features after filtering: ${filteredData.length}`);
