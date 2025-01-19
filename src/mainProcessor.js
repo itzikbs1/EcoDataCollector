@@ -30,12 +30,12 @@ async function main() {
     const glassRecyclingFetcher = new GlassRecyclingFetcher();
 
     const processor = new CityDataProcessor([
-        // herzliyaFetcher,
-        // ramatGanFetcher,
-        // telAvivFetcher,
-        // rishonLezionFetcher,
-        // jerusalemFetcher,
-        // petahTikvaFetcher,
+        herzliyaFetcher,
+        ramatGanFetcher,
+        telAvivFetcher,
+        rishonLezionFetcher,
+        jerusalemFetcher,
+        petahTikvaFetcher,
         glassRecyclingFetcher
     ]);
 
