@@ -1,10 +1,8 @@
-// src/services/RishonLezionFetcher.js
 import BaseFetcher from '../core/BaseFetcher.js';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import AddressHandler from '../helpers/addressHandler.js';
 
-// import fs from 'fs/promises'
 
 class RishonLezionFetcher extends BaseFetcher {
     constructor() {
@@ -81,9 +79,6 @@ class RishonLezionFetcher extends BaseFetcher {
 
             if (coordinates) {
                 this.coordinatesCache.set(cacheKey, coordinates);
-            //     console.log(`✓ Found coordinates for ${address}: ${JSON.stringify(coordinates)}`);
-            // } else {
-            //     console.log(`✗ No coordinates found for ${address}`);
             }
 
             return coordinates;
@@ -119,8 +114,7 @@ class RishonLezionFetcher extends BaseFetcher {
     async transformData(data) {
         try {
             const transformedData = [];
-            // let successCount = 0;
-            // let failureCount = 0;
+
 
             for (let i = 0; i < data.length; i++) {
                 const feature = data[i];
@@ -136,10 +130,6 @@ class RishonLezionFetcher extends BaseFetcher {
 
                 if (!coordinates) {
                     continue;
-                //     successCount++;
-                // } else {
-                //     failureCount++;
-                //     continue; // Skip entries without coordinates
                 }
 
                 transformedData.push({
@@ -153,18 +143,7 @@ class RishonLezionFetcher extends BaseFetcher {
                     externalId: i,
                     neighborhood: feature.neighborhood
                 });
-
-                // if ((i + 1) % 10 === 0) {
-                //     console.log(`Processed ${i + 1}/${data.length} addresses`);
-                //     console.log(`Success rate: ${((successCount / (i + 1)) * 100).toFixed(1)}%`);
-                // }
             }
-
-            // console.log('\nFinal Statistics:');
-            // console.log(`Total addresses processed: ${data.length}`);
-            // console.log(`Successful geocoding: ${successCount}`);
-            // console.log(`Failed geocoding: ${failureCount}`);
-            // console.log(`Success rate: ${((successCount / data.length) * 100).toFixed(1)}%`);
 
             return transformedData;
         } catch (error) {

@@ -1,4 +1,3 @@
-// src/services/PetahTikvaFetcher.js
 import BaseFetcher from '../core/BaseFetcher.js';
 import axios from 'axios';
 

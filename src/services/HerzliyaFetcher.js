@@ -1,4 +1,3 @@
-// src/services/HerzliyaFetcher.js
 import BaseFetcher from '../core/BaseFetcher.js';
 
 class HerzliyaFetcher extends BaseFetcher {
@@ -25,9 +24,6 @@ class HerzliyaFetcher extends BaseFetcher {
     validateFeature(feature) {
         const errors = [];
         
-        // if (!feature.attributes.field_3) {
-        //     errors.push('Missing street name');
-        // }
         if (!feature.geometry || !feature.geometry.x || !feature.geometry.y) {
             errors.push('Missing or invalid coordinates');
             return errors;

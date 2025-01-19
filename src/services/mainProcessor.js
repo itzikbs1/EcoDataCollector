@@ -16,7 +16,7 @@ import PetahTikvaDataFetcher from './PetahTikvaFetcher.js';
 import GlassRecyclingFetcher from './glassRecyclingFetcher.js';
 
 
-import CityDataProcessor from './cityDataProcessor.js';
+import CityDataProcessor from '../scripts/cityDataProcessor.js';
 
 async function main() {
     
@@ -41,10 +41,5 @@ async function main() {
 
     await processor.processAll();
 }
-
-// // Run if this is the main module
-// if (import.meta.url.endsWith(process.argv[1])) {
-//     main().catch(console.error);
-// }
 
 await main();
