@@ -7,13 +7,13 @@
 // import PetahTikvaDataFetcher from './cities/petahTikvaFetcher.js';
 
 
-import HerzliyaDataFetcher from './services/HerzliyaFetcher.js';
-import RamatGanDataFetcher from "./services/RamatGanFetcher.js";
-import TelAvivDataFetcher from './services/TelAvivFetcher.js';
-import JerusalemDataFetcher from './services/JerusalemFetcher.js';
-import RishonLezionDataFetcher from './services/RishonLezionFetcher.js';
-import PetahTikvaDataFetcher from './services/PetahTikvaFetcher.js';
-import GlassRecyclingFetcher from './services/glassRecyclingFetcher.js';
+import HerzliyaDataFetcher from './HerzliyaFetcher.js';
+import RamatGanDataFetcher from "./RamatGanFetcher.js";
+import TelAvivDataFetcher from './TelAvivFetcher.js';
+import JerusalemDataFetcher from './JerusalemFetcher.js';
+import RishonLezionDataFetcher from './RishonLezionFetcher.js';
+import PetahTikvaDataFetcher from './PetahTikvaFetcher.js';
+import GlassRecyclingFetcher from './glassRecyclingFetcher.js';
 
 
 import CityDataProcessor from './cityDataProcessor.js';

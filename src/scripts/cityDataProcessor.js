@@ -4,7 +4,7 @@ import {
     clearDatabase,
     resetDatabase,
     showIndexes
-} from './database/recyclingBins.js';
+} from '../database/recyclingBins.js';
 
 class CityDataProcessor {
     constructor(cityFetchers = []) {
