@@ -1,10 +1,10 @@
 import {
     ensureConnection,
     insertData,
-    clearDatabase,
-    resetDatabase,
-    showIndexes
-} from '../database/recyclingBins.js';
+    // clearDatabase,
+    // resetDatabase,
+    // showIndexes
+} from '../controllers/recycleBinController.js';
 
 class CityDataProcessor {
     constructor(cityFetchers = []) {
@@ -13,8 +13,8 @@ class CityDataProcessor {
 
     async processCity(fetcher) {
         try {
-            console.log(`Starting to process data for ${fetcher.cityName}`);
-            await ensureConnection();
+            // console.log(`Starting to process data for ${fetcher.cityName}`);
+            // await ensureConnection();
 
             // console.log("\n--- Clearing Database ---");
             // await clearDatabase();
@@ -39,6 +39,7 @@ class CityDataProcessor {
     async processAll() {
         try {
             await ensureConnection();
+
             for (const fetcher of this.cityFetchers) {
                 await this.processCity(fetcher);
             }

@@ -1,5 +1,5 @@
 import RecycleBin from '../models/recycleBin.js';
-import connectDB from './connection.js';
+import connectDB from '../database/connection.js';
 
 export async function ensureConnection() {
     if (!global.dbConnection) {
@@ -11,20 +11,35 @@ export async function ensureConnection() {
 export async function insertData(data) {
     try {
         await ensureConnection();
-        const operations = data.map(record => ({
-            updateOne: {
-                filter: {
-                    city_name: record.city_name,
-                    street_name: record.street_name,
-                    building_number: record.building_number,
-                    bin_type_name: record.bin_type_name,
-                    'location.latitude': record.location.latitude,
-                    'location.longitude': record.location.longitude
-                },
-                update: { $set: { ...record, updated_at: new Date() } },
-                upsert: true
-            }
-        }));
+        const operations = data.map(record => {
+            // Transform the location to GeoJSON format
+            const geoJSONLocation = {
+                type: 'Point',
+                coordinates: [record.location.longitude, record.location.latitude]
+            };
+
+            return {
+                updateOne: {
+                    filter: {
+                        city_name: record.city_name,
+                        street_name: record.street_name,
+                        building_number: record.building_number,
+                        bin_type_name: record.bin_type_name,
+                        // Update filter to use GeoJSON coordinates
+                        'location.coordinates': [record.location.longitude, record.location.latitude]
+                    },
+                    update: { 
+                        $set: { 
+                            ...record,
+                            location: geoJSONLocation, // Replace the old location format with GeoJSON
+                            updated_at: new Date() 
+                        }
+                    },
+                    upsert: true
+                }
+            };
+        });
+        
         const result = await RecycleBin.bulkWrite(operations, { ordered: false });
         return result;
     } catch (error) {

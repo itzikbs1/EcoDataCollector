@@ -4,21 +4,15 @@ import { getStandardType } from '../helpers/binTypes.js';
 class BaseFetcher {
     
     constructor(cityName) {
-        // if(this.constructor === BaseFetcher) {
-        //     throw new Error('BaseFetcher is an abstract class and cannot be instantiated directly');
-        // }
-
         this.cityName = cityName;
     }
 
+    //Validation of coordinates
     validateCoordinates(latitude, longitude) {
-        // Check if coordinates exist and are numbers
         if (!latitude || !longitude || 
             isNaN(parseFloat(latitude)) || isNaN(parseFloat(longitude))) {
             return false;
         }
-
-        // Convert to numbers
         const lat = parseFloat(latitude);
         const lon = parseFloat(longitude);
 
@@ -27,11 +21,10 @@ class BaseFetcher {
             return false;
         }
 
-        // Check if coordinates are identical (likely an error)
         if (lat === lon) {
             return false;
         }
-
+        
         return true;
     }
 

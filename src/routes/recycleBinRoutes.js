@@ -4,6 +4,6 @@ import { getRecycleBins } from '../controllers/recycleBinController.js';
 const router = express.Router();
 
 
-router.get('/bins', getRecycleBins);
+router.post('/bins', getRecycleBins);
 
 export default router;
